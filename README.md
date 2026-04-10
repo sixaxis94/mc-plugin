@@ -1,2 +1,1 @@
-# mc-plugin
-Mission Control Plugin
+Mission Control Plugin Releases
